@@ -1,0 +1,12 @@
+G04 Layer_Physical_Order=2*
+G04 Layer_Color=11436288*
+%FSAX24Y24*%
+%MOIN*%
+G70*
+G01*
+G75*
+%ADD10C,0.3937*%
+D10*
+X015000Y015000D02*
+D03*
+M02*
