@@ -3,6 +3,9 @@ The public release of these and many more documents is a very active work in pro
 
 Please feel free to reach out if you have an urgent application or desire to collaborate in the meantime.
 
+## Quickstart Guide
+- Order BOM parts ![BOM](https://github.com/jamminwfeynman/CardioKit-AlphaRelease/blob/master/Electronics/CardioKit-PCB-R01/BOM/CardioKit-R01-BOM.pdf)
+
 
 ## To-Do
 - Clean-up, optimization, repackaging of firmware
