@@ -3,6 +3,14 @@ The public release of these and many more documents is a very active work in pro
 
 Please feel free to reach out if you have an urgent application or desire to collaborate in the meantime.
 
+<p align="center">
+  <img src="https://github.com/jamminwfeynman/CardioKit-AlphaRelease/blob/master/Mechanicals/Images/CardioKit-Exploded-Labelled.png">
+
+
+
+  <img src="https://github.com/jamminwfeynman/CardioKit-AlphaRelease/blob/master/Mechanicals/Images/CardioKit-Top-Trimetric.png">
+</p>
+
 ## Quickstart Guide
 - Order the ![CardioKit PCB R10](https://github.com/jamminwfeynman/CardioKit-AlphaRelease/tree/master/Electronics/CardioKit-PCB-R01/Gerbers) with assembly services using the parts in the ![BOM](https://github.com/jamminwfeynman/CardioKit-AlphaRelease/blob/master/Electronics/CardioKit-PCB-R01/BOM/CardioKit-R01-BOM.pdf). These should be 1.6mm thick and use ![ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold) surface plating. Order quantity 1 per finished device.
 - Order ![PCB Electrode Holders](https://github.com/jamminwfeynman/CardioKit-AlphaRelease/tree/master/Electronics/Electrode-Holder-PCB-R01/Gerbers) along with the main PCB. These should be 0.6mm thick and use ![ENIG](https://en.wikipedia.org/wiki/Electroless_nickel_immersion_gold) surface plating. Order quantity 10 per finished device.
