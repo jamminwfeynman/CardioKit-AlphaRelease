@@ -9,6 +9,14 @@ Please feel free to reach out if you have an urgent application or desire to col
 
 
   <img src="https://github.com/jamminwfeynman/CardioKit-AlphaRelease/blob/master/Mechanicals/Images/CardioKit-Top-Trimetric.png">
+  
+  
+  
+  <img src="https://github.com/jamminwfeynman/CardioKit-AlphaRelease/blob/master/Electronics/CardioKit-PCB-R01/Images/CardioKit-PCB-Top-Labelled.png">
+  
+  
+  
+  <img src="https://github.com/jamminwfeynman/CardioKit-AlphaRelease/blob/master/Electronics/CardioKit-PCB-R01/Images/CardioKit-PCB-Bottom-Labelled.png">
 </p>
 
 ## Quickstart Guide
